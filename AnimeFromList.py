@@ -13,5 +13,7 @@ except:
     print("Invalid Input. Restart the Program.")
 
 for  i in range(inp):
-    print("Recommendation ", i, " is :", lists[random.randint(0, 2)][random.randint(0, len(anime_lst_1))])
+    l = random.randint(0, len(lists)-1)
+    a = random.randint(0,len(lists[l]))
+    print("Recommendation ", i+1, " is :", lists[l][a-1])
 
