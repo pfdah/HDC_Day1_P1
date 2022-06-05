@@ -2,7 +2,7 @@ import random
 
 anime_lst_1 = ['Naruto','DeathNoe','86','Kill la Kill','Hunter x Hunter','Spy x Family',"Jojo Series","Made in Abyss","Bleach"]
 anime_lst_2 = ['Boruto',"Dragon Ball Series","One Piece",'Monster','Erased','Jusjutsu Kaisen',"Assasination Classroom","My Hero Academia", "Death Parade"]
-anime_lst_3 = ['Ergo Proxy',"Redo of Healer","Baccano","Promised Neverland",'Food Wars','Tokyo Ghoul',"Moriarty the Patriot","Dr.Stone"]
+anime_lst_3 = ['Ergo Proxy',"Paranoia Agent","Baccano","Promised Neverland",'Food Wars','Tokyo Ghoul',"Moriarty the Patriot","Dr.Stone"]
 
 lists = [anime_lst_1, anime_lst_2, anime_lst_3]
 
